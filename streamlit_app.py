@@ -14,5 +14,10 @@ streamlit.text('Yumurta')
 streamlit.text('🥣 🥗 🐔 🥑🍞')
 
 streamlit.text('Build your own fruit smoothie!') 
+
+streamlit.multiselect("Pick some fruits:", list(my_fruits.index))
+
 streamlit.dataframe(my_fruit_list)
+
+
 
