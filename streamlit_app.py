@@ -8,4 +8,6 @@ streamlit.text('Zeytin')
 streamlit.text('Panir')
 streamlit.text('Yumurta')
 
+streamlit.text('🥣 🥗 🐔 🥑🍞')
+
 
